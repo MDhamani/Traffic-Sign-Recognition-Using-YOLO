@@ -16,3 +16,5 @@ Using YOLOv3 tiny and YOLOv5 for training and achieved >93% mAP on the dataset.
 ## Report
 
 Used [WandB](https://wandb.ai/mdhamani/YOLOv5) to log hyperparameters and output metrics from runs. 
+
+Download the [model](https://mega.nz/file/rV4HDQ5b#UfgDAMlVHvfzSr7PquE8HWx_6jhRmDUGBS-qyfIn_oE)
