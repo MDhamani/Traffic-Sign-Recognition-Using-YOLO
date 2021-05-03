@@ -9,7 +9,7 @@ The dataset used for training is [German Traffic Sign Recognition Benchmark (GTS
 
 ## Model
 
-Using YOLOv3 tiny and YOLOv5 for training and achieved >93% mAP on the dataset.
+Using and YOLOv5 for training and achieved >93% mAP on the dataset.
 
 ![image](https://user-images.githubusercontent.com/35000278/116809984-cd071100-ab5e-11eb-8789-29afd40c0094.png)
 
